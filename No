@@ -1,0 +1,1313 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE SPORT ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE SPORT ⚡⚡⚡
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/9195
+#EXTINF:-1 tvg-id="" tvg-name="TVR Sport FHD" tvg-logo="" group-title="Romania ",TVR Sport FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/59935
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="Digi Sport 1 4K" tvg-logo="https://static.epgguide.net/icon/digisport1.ro.png" group-title="Romania ",Digi Sport 1 4K
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82437
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="Digi Sport 1 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY0XzE1NTMzNjRf/RGlnaV9TcG9ydF8xLnBuZyZoYXNoPTU5/ZTYyZjAxYTUyZDYzZDFiNjU3ZDMzOWZmNTM4MDY0.png" group-title="Romania ",Digi Sport 1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82433
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="Digi Sport 1 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY1XzE1NTMzNjVf/RGlnaV9TcG9ydF8xX0hELnBuZyZoYXNo/PTg4NjUwNzA4ZDA3YmJjMjhiYjEyYjU0MTUxZmI0M2Fj.png" group-title="Romania ",Digi Sport 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82429
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="Digi Sport 1 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://static.epgguide.net/icon/digisport1.ro.png" group-title="Romania ",Digi Sport 1 HDR (Net Bun)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82438
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="Digi Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/3/34/Digi_Sport_logo.svg/800px-Digi_Sport_logo.svg.png" group-title="Romania ",Digi Sport 2 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82434
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="Digi Sport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/3/34/Digi_Sport_logo.svg/800px-Digi_Sport_logo.svg.png" group-title="Romania ",Digi Sport 2 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82430
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="Digi Sport 2 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/ro/thumb/3/34/Digi_Sport_logo.svg/800px-Digi_Sport_logo.svg.png" group-title="Romania ",Digi Sport 2 HDR (Net Bun)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82439
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="Digi Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png" group-title="Romania ",Digi Sport 3 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82435
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="Digi Sport 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png" group-title="Romania ",Digi Sport 3 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82431
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="Digi Sport 3 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png" group-title="Romania ",Digi Sport 3 HDR (Net Bun)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82440
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="Digi Sport 4 HD" tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfc3BvcnRfZGlnaXNwb3J0NC5wbmcm/aGFzaD0yYTIyYmFmZTU5ZDhhOTA0YmI2NTdjMGNiMDVkYTk3NQ==.png" group-title="Romania ",Digi Sport 4 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82436
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="Digi Sport 4 FHD" tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfc3BvcnRfZGlnaXNwb3J0NC5wbmcm/aGFzaD0yYTIyYmFmZTU5ZDhhOTA0YmI2NTdjMGNiMDVkYTk3NQ==.png" group-title="Romania ",Digi Sport 4 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82432
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="Digi Sport 4 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfc3BvcnRfZGlnaXNwb3J0NC5wbmcm/aGFzaD0yYTIyYmFmZTU5ZDhhOTA0YmI2NTdjMGNiMDVkYTk3NQ==.png" group-title="Romania ",Digi Sport 4 HDR (Net Bun)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/82441
+#EXTINF:-1 tvg-id="eurosport4k.ro" tvg-name="Eurosport 4K" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3NjlfMTI5ODc2OV9F/VVJPU1BPUlQtNEsucG5nJmhhc2g9YjM3/MTQzMzdmNTIyMDcwNTc5MGMyMGMwZDU1NjZlODg=.png" group-title="Romania ",Eurosport 4K
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/17995
+#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="EuroSport1 Romania FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Romania ",EuroSport1 Romania FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/70382
+#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="EuroSport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Romania ",EuroSport 1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/70387
+#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="EuroSport 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Romania ",EuroSport 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/70385
+#EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="EuroSport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Romania ",EuroSport 2 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/70384
+#EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="EuroSport 2 FHD" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png" group-title="Romania ",EuroSport 2 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/70388
+#EXTINF:-1 tvg-id="prima4k.ro" tvg-name="Prima 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="Romania ",Prima 4K
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/19319
+#EXTINF:-1 tvg-id="primasport1.ro" tvg-name="Prima Sport 1 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ4XzE1NTM0NDhf/UHJpbWFfU3BvcnRfbmV3LnBuZyZoYXNo/PWU4MTQwMjY1NjkyNWRkODZjNjZhNGMzOTA3ODgzNDQ4.png" group-title="Romania ",Prima Sport 1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/9106
+#EXTINF:-1 tvg-id="primasport1.ro" tvg-name="Prima Sport 1 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU4XzE1NTM2NThf/UHJpbWFfU3BvcnRfMV9IRC5wbmcmaGFz/aD0zMDNhMDcwZTcwZDRlOWY3MDA1OTY4ZDM3YjA4YjZmYQ==.png" group-title="Romania ",Prima Sport 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/31399
+#EXTINF:-1 tvg-id="primasport1.ro" tvg-name="Prima Sport 1 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 1 HDR (Net Bun)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/70495
+#EXTINF:-1 tvg-id="primasport2.ro" tvg-name="Prima Sport 2 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzA2XzE1OTg3MDZf/UHJpbWEtU3BvcnQtMi1zaS1QcmltYS1T/cG9ydC0yLUhELnBuZyZoYXNoPWU5Zjdm/MDFjNWE1ZmI4ODE0MDJhMmYxM2EwYzhkZjA4.png" group-title="Romania ",Prima Sport 2 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/9105
+#EXTINF:-1 tvg-id="primasport2.ro" tvg-name="Prima Sport 2 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzE5XzE1OTg3MTlf/UHJpbWEtU3BvcnQtMi1zaS1QcmltYS1T/cG9ydC0yLUhEXzEucG5nJmhhc2g9NDBi/MDJiZTdiODJlN2U2NzI4ZWM5ZTUzMTc3MWMwZjA=.png" group-title="Romania ",Prima Sport 2 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/9003
+#EXTINF:-1 tvg-id="primasport2.ro" tvg-name="Prima Sport 2 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 2 HDR (Net Bun)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/70496
+#EXTINF:-1 tvg-id="primasport3.ro" tvg-name="Prima Sport 3 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzA3XzE1OTg3MDdf/UHJpbWEtU3BvcnQtMy0xLnBuZyZoYXNo/PTM3ZTZhODY3YjA5YzliYjdmNzM1YTVlZmYwM2E5YTc3.png" group-title="Romania ",Prima Sport 3 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/30431
+#EXTINF:-1 tvg-id="primasport3.ro" tvg-name="Prima Sport 3 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU5XzE1NTM2NTlf/UHJpbWFfU3BvcnRfM19IRC5wbmcmaGFz/aD1kMTczNDcwNjljMjQ1ZWYyN2Q0MjM2MWVmZjlmNmNhYQ==.png" group-title="Romania ",Prima Sport 3 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/9005
+#EXTINF:-1 tvg-id="primasport3.ro" tvg-name="Prima Sport 3 HDR  (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 3 HDR  (Net Bun)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/70497
+#EXTINF:-1 tvg-id="primasport4.ro" tvg-name="Prima Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 4 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/30430
+#EXTINF:-1 tvg-id="primasport4.ro" tvg-name="Prima Sport 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 4 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/9004
+#EXTINF:-1 tvg-id="primasport4.ro" tvg-name="Prima Sport 4 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 4 HDR (Net Bun)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/70498
+#EXTINF:-1 tvg-id="primasport5.ro" tvg-name="Prima Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 5 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/37928
+#EXTINF:-1 tvg-id="primasport5.ro" tvg-name="Prima Sport 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 5 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/37842
+#EXTINF:-1 tvg-id="" tvg-name="Prima Sport 5 HDR  (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 5 HDR  (Net Bun)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/70499
+#EXTINF:-1 tvg-id="" tvg-name="VOYO SPORT ( DOAR MECI LIVE)" tvg-logo="" group-title="Romania ",VOYO SPORT ( DOAR MECI LIVE)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/101462
+#EXTINF:-1 tvg-id="" tvg-name="VOYO SPORT 2 ( DOAR MECI LIVE)" tvg-logo="" group-title="Romania ",VOYO SPORT 2 ( DOAR MECI LIVE)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/101463
+#EXTINF:-1 tvg-id="" tvg-name="VOYO SPORT 3 ( DOAR MECI LIVE)" tvg-logo="" group-title="Romania ",VOYO SPORT 3 ( DOAR MECI LIVE)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/101464
+#EXTINF:-1 tvg-id="" tvg-name="VOYO SPORT 4 (DOAR MECI LIVE)" tvg-logo="" group-title="Romania ",VOYO SPORT 4 (DOAR MECI LIVE)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/101465
+#EXTINF:-1 tvg-id="" tvg-name="VOYO SPORT 5 (DOAR MECI LIVE)" tvg-logo="" group-title="Romania ",VOYO SPORT 5 (DOAR MECI LIVE)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/101466
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 ˢᵈ" tvg-logo="http://www.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LA 1 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100022
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 ʰᵈ" tvg-logo="http://www.tmsimg.com/assets/s91203_ll_h3_aa.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LA 1 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100023
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 ᶠʰᵈ" tvg-logo="http://www.tmsimg.com/assets/s91203_ll_h3_aa.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LA 1 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100024
+#EXTINF:-1 tvg-id="" tvg-name="ES| LA 1 UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/TVE_4K_2013.svg/revision/latest/scale-to-width-down/1200?cb=20200414142715&path-prefix=es" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES| LA 1 UHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100025
+#EXTINF:-1 tvg-id="" tvg-name="ES: STAR TVE ʰᵈ" tvg-logo="https://static.wixstatic.com/media/281e2a_584e6b5d5c3746a1a0235baf30934b29.png/v1/fill/w_398,h_290,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/281e2a_584e6b5d5c3746a1a0235baf30934b29.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: STAR TVE ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100026
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/LA2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LA 2 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100027
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/LA2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LA 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100028
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/643px-Logo_TVE-2.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LA 2 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100029
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 ˢᵈ" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/Antena-3-Logo-500x281.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ANTENA 3 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100030
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 ʰᵈ" tvg-logo="http://www.tmsimg.com/assets/s91176_ll_h3_aa.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ANTENA 3 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100031
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ES: ANTENA 3 ᶠʰᵈ" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/Antena-3-Logo-500x281.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ANTENA 3 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100032
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO ˢᵈ" tvg-logo="http://www.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CUATRO ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100033
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO ʰᵈ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/cuatro-hd-es.png?raw=true" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CUATRO ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100034
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO ᶠʰᵈ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/cuatro-hd-es.png?raw=true" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CUATRO ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100035
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/T5.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TELECINCO ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100036
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/T5.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TELECINCO ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100037
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/T5.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TELECINCO ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100038
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LA SEXTA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100039
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LA SEXTA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100040
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LA SEXTA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100041
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ VAMOS ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Cosmote_Plus%2B_2022_logo.svg/1024px-Vamos_por_Cosmote_Plus%2B_2022_logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ VAMOS ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100042
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ VAMOS ʰᵈ" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ VAMOS ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100043
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ VAMOS ᶠʰᵈ" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ VAMOS ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100044
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote+ VAMOS ᶠʰᵈ  (SAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Cosmote_Plus%2B_2022_logo.svg/1024px-Vamos_por_Cosmote_Plus%2B_2022_logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote+ VAMOS ᶠʰᵈ  (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100045
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ PLUS+ ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ PLUS+ ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100046
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ PLUS+ ʰᵈ" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ PLUS+ ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100047
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ PLUS+ ᶠʰᵈ (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ PLUS+ ᶠʰᵈ (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100048
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ PLUS+ 2 ˢᵈ" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ PLUS+ 2 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100049
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ PLUS+ 2 ʰᵈ" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ PLUS+ 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100050
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ PLUS+ 2 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ PLUS+ 2 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100051
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LA RESISTENCIA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/RESIST.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LA RESISTENCIA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100052
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LA RESISTENCIA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/RESIST.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LA RESISTENCIA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100053
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ETB 1
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100054
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ETB 2
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100055
+#EXTINF:-1 tvg-id="" tvg-name="ES: Elche 7 TV" tvg-logo="https://i.imgur.com/tjI0dLx.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Elche 7 TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100056
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG ᶠʰᵈ" tvg-logo="https://i.imgur.com/VGovTR1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TVG ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100057
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG² ʰᵈ" tvg-logo="https://i.imgur.com/VGovTR1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TVG² ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100058
+#EXTINF:-1 tvg-id="" tvg-name="ES: IB·3" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/IB3.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: IB·3
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100059
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TV3 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100060
+#EXTINF:-1 tvg-id="" tvg-name="ES: TPA ʰᵈ (ASTURIES)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TPA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TPA ʰᵈ (ASTURIES)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100061
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR 1 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CSURHD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CANAL SUR 1 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100062
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR 1 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CSURHD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CANAL SUR 1 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100063
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR 2 ʰᵈ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Canal_2_Andaluc%C3%ADa_logo.jpg/revision/latest?cb=20110716172715" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CANAL SUR 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100064
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL EXTREMADURA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/EXTRE.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CANAL EXTREMADURA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100065
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM ᶠʰᵈ  (C. LA MANCHA)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/m/m/xcmmtv.jpg.pagespeed.ic.ewGvljo12d.jpg" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CMM ᶠʰᵈ  (C. LA MANCHA)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100066
+#EXTINF:-1 tvg-id="" tvg-name="ES: 33 (CATALAN)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CAN33.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 33 (CATALAN)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100067
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIA ᶠʰᵈ" tvg-logo="https://i.imgur.com/W07bLR4.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TV CANARIA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100068
+#EXTINF:-1 tvg-id="" tvg-name="ES: PTV CORDOBA ᶠʰᵈ" tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: PTV CORDOBA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100069
+#EXTINF:-1 tvg-id="" tvg-name="ES: PTV SEVILLA ᶠʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: PTV SEVILLA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100070
+#EXTINF:-1 tvg-id="" tvg-name="ES: PTV MÁLAGA ᶠʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: PTV MÁLAGA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100071
+#EXTINF:-1 tvg-id="" tvg-name="ES: PTV GRANADA ᶠʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: PTV GRANADA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100072
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA CADIZ ʰᵈ" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.coolstreaming.us%2Fimg%2Fch%2Fimage39561699564.jpg&f=1&nofb=1&ipt=7590afc49d6a1b0537a9884f62b5e0c56ca86b4a63db935b67e76277bf6cabda&ipo=images" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ONDA CADIZ ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100073
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV GRANADA ᶠʰᵈ" tvg-logo="https://ticnegocios.camaradesevilla.com/wp-content/uploads/2019/04/logo-7tv.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 7TV GRANADA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100074
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV CADIZ ᶠʰᵈ" tvg-logo="https://ticnegocios.camaradesevilla.com/wp-content/uploads/2019/04/logo-7tv.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 7TV CADIZ ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100075
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV CORDOBA ᶠʰᵈ" tvg-logo="https://ticnegocios.camaradesevilla.com/wp-content/uploads/2019/04/logo-7tv.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 7TV CORDOBA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100076
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV JAEN ᶠʰᵈ" tvg-logo="https://ticnegocios.camaradesevilla.com/wp-content/uploads/2019/04/logo-7tv.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 7TV JAEN ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100077
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV LINARES ᶠʰᵈ" tvg-logo="https://ticnegocios.camaradesevilla.com/wp-content/uploads/2019/04/logo-7tv.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 7TV LINARES ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100078
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV ROTA ᶠʰᵈ" tvg-logo="https://ticnegocios.camaradesevilla.com/wp-content/uploads/2019/04/logo-7tv.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 7TV ROTA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100079
+#EXTINF:-1 tvg-id="" tvg-name="ES: Á Punt ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/APUNT.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Á Punt ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100080
+#EXTINF:-1 tvg-id="" tvg-name="ES: 8 La Marina TV" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 8 La Marina TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100081
+#EXTINF:-1 tvg-id="" tvg-name="ES: 101 TV Málaga" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 101 TV Málaga
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100082
+#EXTINF:-1 tvg-id="" tvg-name="ES: Afortunadas TV" tvg-logo="https://i.imgur.com/geVZYUA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Afortunadas TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100083
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alacantí TV" tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Alacantí TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100084
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alcarria TV" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Alcarria TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100085
+#EXTINF:-1 tvg-id="" tvg-name="ES: Aragón TV" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Aragón TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100086
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ARAGON.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ARAGON TV ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100087
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL MALAGA ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CANAL MALAGA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100088
+#EXTINF:-1 tvg-id="" tvg-name="ES: 101 CANAL MALAGA ᶠʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 101 CANAL MALAGA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100089
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TELEMADRID ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100090
+#EXTINF:-1 tvg-id="" tvg-name="ES: C. La Mancha Media ˢᵈ" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/m/m/xcmmtv.jpg.pagespeed.ic.ewGvljo12d.jpg" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: C. La Mancha Media ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100091
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7 TV Murcia ʰᵈ" tvg-logo="http://xtitan.xyz:2082/images/3cbce6eee118c00a4d3cbff6404a5d78.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 7 TV Murcia ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100092
+#EXTINF:-1 tvg-id="" tvg-name="ES: betevé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: betevé
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100093
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bloomberg TV Europe" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Bloomberg TV Europe
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100094
+#EXTINF:-1 tvg-id="" tvg-name="ES: Burriana TV" tvg-logo="https://i.imgur.com/G3nIGHh.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Burriana TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100095
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cadena Elite" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cadena Elite
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100096
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caillou" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Caillou
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100097
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal 4 Mallorca" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Canal 4 Mallorca
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100098
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24H ˢᵈ" tvg-logo="https://i.imgur.com/tiv24xx.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 24H ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100099
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24H ʰᵈ" tvg-logo="https://i.imgur.com/tiv24xx.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 24H ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100100
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24H ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: 24H ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100101
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal 24H Catalunya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/512px-Logo_TVE-24h.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Canal 24H Catalunya
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100102
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ SERIES ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MV2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ SERIES ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100103
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ SERIES ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MV2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ SERIES ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100104
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+  SERIES ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MV2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+  SERIES ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100105
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ CINE ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MV1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ CINE ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100106
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ CINE ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MV1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ CINE ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100107
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ CINE ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MV1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ CINE ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100108
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ ACCION ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ ACCION ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100109
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ ACCION  ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ ACCION  ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100110
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ ACCION ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ ACCION ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100111
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ COMEDIA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ COMEDIA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100112
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ COMEDIA  ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ COMEDIA  ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100113
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ COMEDIA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ COMEDIA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100114
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DRAMA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DRAMA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100115
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DRAMA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DRAMA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100116
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DRAMA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DRAMA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100117
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DOCUMENTALES ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MDOC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DOCUMENTALES ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100118
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DOCUMENTALES ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MDOC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DOCUMENTALES ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100119
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DOCUMENTALES ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MDOC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DOCUMENTALES ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100120
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ INDIE ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MINDI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ INDIE ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100121
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ INDIE ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MINDI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ INDIE ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100122
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ INDIE ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MINDI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ INDIE ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100123
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ ORIGINALES ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MORIG.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ ORIGINALES ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100124
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ ORIGINALES ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MORIG.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ ORIGINALES ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100125
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ ORIGINALES ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MORIG.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ ORIGINALES ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100126
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ ORIGINALES ᶠʰᵈ (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MORIG.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ ORIGINALES ᶠʰᵈ (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100127
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ CLASICOS ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ CLASICOS ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100128
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ CLASICOS ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ CLASICOS ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100129
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ CLASICOS ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ CLASICOS ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100130
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ CINE ESPAÑOL ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DCESP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ CINE ESPAÑOL ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100131
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ CINE ESPAÑOL ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DCESP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ CINE ESPAÑOL ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100132
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote+ LOS GOYAS  ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MGOYA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote+ LOS GOYAS  ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100133
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote+ LOS GOYAS  ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MGOYA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote+ LOS GOYAS  ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100134
+#EXTINF:-1 tvg-id="" tvg-name="Max Avances ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MAXAVA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Max Avances ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100135
+#EXTINF:-1 tvg-id="" tvg-name="Max Avances ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MAXAVA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Max Avances ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100136
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM ˢᵈ" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TCM ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100137
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM ʰᵈ" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TCM ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100138
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM ᶠʰᵈ" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TCM ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100139
+#EXTINF:-1 tvg-id="" tvg-name="ES: STAR CHANNEL ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: STAR CHANNEL ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100140
+#EXTINF:-1 tvg-id="" tvg-name="ES: STAR CHANNEL ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: STAR CHANNEL ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100141
+#EXTINF:-1 tvg-id="" tvg-name="ES: STAR CHANNEL ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: STAR CHANNEL ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100142
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD ˢᵈ" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: HOLLYWOOD ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100143
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD ʰᵈ" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: HOLLYWOOD ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100144
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD ᶠʰᵈ" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: HOLLYWOOD ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100145
+#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DWSP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DREAMWORKS ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100146
+#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DWSP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DREAMWORKS ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100147
+#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DWSP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DREAMWORKS ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100148
+#EXTINF:-1 tvg-id="" tvg-name="ES: SKY SHOWTIME|1 ʰᵈ" tvg-logo="https://cdn.gogeticon.net/files/2957531/342ddb2069df11843505c457207430ab.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SKY SHOWTIME|1 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100149
+#EXTINF:-1 tvg-id="" tvg-name="ES: SKY SHOWTIME|1 ᶠʰᵈ" tvg-logo="https://cdn.gogeticon.net/files/2957531/342ddb2069df11843505c457207430ab.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SKY SHOWTIME|1 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100150
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/BOMCIN.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BOM CINE
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100151
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/BOMCIN.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BOM CINE ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100152
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/BOMCIN.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BOM CINE ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100153
+#EXTINF:-1 tvg-id="" tvg-name="ES: DARK ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DARK.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DARK ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100154
+#EXTINF:-1 tvg-id="" tvg-name="ES: DARK ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DARK.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DARK ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100155
+#EXTINF:-1 tvg-id="" tvg-name="ES: DARK ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DARK.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DARK ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100156
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/COSMO.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: COSMO ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100157
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMOS ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/COSMO.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: COSMOS ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100158
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/COSMO.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: COSMO ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100159
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SYFY ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100160
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SYFY ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100161
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SYFY ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100162
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC hd" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/AMC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AMC hd
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100163
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/AMC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AMC ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100164
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/AMC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AMC BREAK ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100165
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/AMC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AMC BREAK ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100166
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/AMC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AMC BREAK ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100167
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC CRIME ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CYM.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AMC CRIME ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100168
+#EXTINF:-1 tvg-id="" tvg-name="ES:AMC CRIME ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CYM.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES:AMC CRIME ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100169
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC CRIME ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CYM.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AMC CRIME ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100170
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SOMOS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SOMOS ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100171
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SOMOS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SOMOS ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100172
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SOMOS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SOMOS ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100173
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN MOVIE ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SET.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AXN MOVIE ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100174
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN MOVIE ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SET.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AXN MOVIE ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100175
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN MOVIES ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SET.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AXN MOVIES ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100176
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AXN ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100177
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AXN ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100178
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: AXN ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100179
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/XTRM.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: XTRM ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100180
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/XTRM.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: XTRM ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100181
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CL13.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CALLE 13 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100182
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CL13.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CALLE 13 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100183
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CL13.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CALLE 13 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100184
+#EXTINF:-1 tvg-id="" tvg-name="ES: WARNER TV ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TNT.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: WARNER TV ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100185
+#EXTINF:-1 tvg-id="" tvg-name="ES: WARNER TV ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TNT.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: WARNER TV ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100186
+#EXTINF:-1 tvg-id="" tvg-name="ES: WARNER TV ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TNT.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: WARNER TV ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100187
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/PCM.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: COMEDY CENTRAL ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100188
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/PCM.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: COMEDY CENTRAL ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100189
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/PCM.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: COMEDY CENTRAL ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100190
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT CHANNEL ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: PARAMOUNT CHANNEL ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100191
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",PARAMOUNT CHANNEL ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100192
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE TV ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/1280px-Trece.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TRECE TV ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100193
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/1280px-Trece.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TRECE ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100194
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SUNDANCE ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100195
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SUNDANCE ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100196
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SUNDANCE ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100197
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3SERIES ˢᵈ" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: A3SERIES ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100198
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3SERIES ʰᵈ" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: A3SERIES ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100199
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3SERIES ᶠʰᵈ" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: A3SERIES ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100200
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DKISS ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100201
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DKISS ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100202
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEMAD ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BEMAD ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100203
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEMAD ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BEMAD ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100204
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEMAD ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BEMAD ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100205
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/NEOX.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NEOX ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100206
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/NEOX.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NEOX ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100207
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/NEOX.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NEOX ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100208
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/NOVA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NOVA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100209
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/NOVA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NOVA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100210
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/NOVA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NOVA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100211
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ENERGY ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100212
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ENERGY ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100213
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ENERGY ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100214
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DIVINITY ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100215
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DIVINITY ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100216
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DIVINITY ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100217
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: FDF ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100218
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: FDF ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100219
+#EXTINF:-1 tvg-id="" tvg-name="ES: TEN ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TEN ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100220
+#EXTINF:-1 tvg-id="" tvg-name="ES: TEN ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TEN ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100221
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MEGA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: MEGA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100222
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MEGA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: MEGA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100223
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MEGA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: MEGA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100224
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DMAX ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100225
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DMAX ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100226
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DMAX ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100227
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENFAMILIA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/PANDA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ENFAMILIA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100228
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENFAMILIA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/PANDA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ENFAMILIA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100229
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENFAMILIA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/PANDA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ENFAMILIA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100230
+#EXTINF:-1 tvg-id="" tvg-name="ES: BUEN VIAJE! ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/BUENV.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BUEN VIAJE! ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100231
+#EXTINF:-1 tvg-id="" tvg-name="ES: BUEN VIAJE! ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/BUENV.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BUEN VIAJE! ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100232
+#EXTINF:-1 tvg-id="" tvg-name="ES: BUEN VIAJE! ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/BUENV.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BUEN VIAJE! ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100233
+#EXTINF:-1 tvg-id="" tvg-name="ES: SELEKT ᶠʰᵈ" tvg-logo="https://selekt.in/img/selekt_black.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SELEKT ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100234
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ NEGOCIOS ᶠʰᵈ" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ NEGOCIOS ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100235
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ NEGOCIOS  ʰᵈ" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ NEGOCIOS  ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100236
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inchiriere 1" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TQ1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Inchiriere 1
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100237
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inchiriere 2" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TQ1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Inchiriere 2
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100238
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inchiriere 3 [Spiral]" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TQ1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Inchiriere 3 [Spiral]
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100239
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inchiriere 4" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TQ1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Inchiriere 4
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100240
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inchiriere 5" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TQ1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Inchiriere 5
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100241
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inchiriere 6" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TQ1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Inchiriere 6
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100242
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inchiriere 7" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TQ1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Inchiriere 7
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100243
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inchiriere 8" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TQ1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Inchiriere 8
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100244
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inchiriere 9" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TQ1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Inchiriere 9
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100245
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inchiriere 10" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/TQ1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Inchiriere 10
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100246
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CACOC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CANAL COCINA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100247
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CACOC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CANAL COCINA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100248
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CACOC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CANAL COCINA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100249
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA 4K" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CACOC.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CANAL COCINA 4K
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100250
+#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DECASA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DECASA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100251
+#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DECASA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DECASA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100252
+#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DECASA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DECASA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100253
+#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA 4K" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DECASA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DECASA 4K
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100254
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA ˢᵈ" tvg-logo="http://media.c-x-c.media/picons/PT/historia.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: HISTORIA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100255
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA ʰᵈ" tvg-logo="http://media.c-x-c.media/picons/PT/historia.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: HISTORIA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100256
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA ᶠʰᵈ" tvg-logo="http://media.c-x-c.media/picons/PT/historia.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: HISTORIA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100257
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NATIONAL GEOGRAPHIC ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100258
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NATIONAL GEOGRAPHIC ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100259
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NATIONAL GEOGRAPHIC ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100260
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NATIONAL GEOGRAPHIC WILD ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100261
+#EXTINF:-1 tvg-id="" tvg-name="ES:NATIONAL GEOGRAPHIC WILD ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES:NATIONAL GEOGRAPHIC WILD ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100262
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NATIONAL GEOGRAPHIC WILD ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100263
+#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/1280px-Discovery_Channel_logo_2009.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DISCOVERY CHANNEL ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100264
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/1280px-Discovery_Channel_logo_2009.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DISCOVERY CHANNEL ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100265
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/1280px-Discovery_Channel_logo_2009.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DISCOVERY CHANNEL ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100266
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ODISEA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100267
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ODISEA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100268
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ODISEA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100269
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ODISEA 4K
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100270
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: IBERALIA 100% PESCA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100271
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: IBERALIA 100% PESCA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100272
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: IBERALIA 100% PESCA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100273
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: IBERALIA 100% CAZA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100274
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: IBERALIA 100% CAZA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100275
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: IBERALIA TV ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100276
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: IBERALIA TV ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100277
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: IBERALIA TV ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100278
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CAZA Y PESCA ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100279
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CAZA Y PESCA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100280
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CAZA Y PESCA ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100281
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISION" tvg-logo="https://play-lh.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CAZAVISION
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100282
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISION ᶠʰᵈ" tvg-logo="https://play-lh.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CAZAVISION ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100283
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MCosmote.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100284
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MCosmote.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100285
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MCosmote.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100286
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote TV ᶠʰᵈ (ORANGE)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MCosmote.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote TV ᶠʰᵈ (ORANGE)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100287
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote  UHD" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote  UHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100288
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote 2 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote 2 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100289
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote 2 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100290
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote 2 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote 2 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100291
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote 3 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote 3 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100292
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote  3 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote  3 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100293
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ LACosmote 3 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ LACosmote 3 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100294
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote BAR ˢᵈ" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote BAR ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100295
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote BAR ʰᵈ" tvg-logo="http://kongking.shop:80/images/pvCeJaf3ncx1lov72LMSdq1N9V4nkRSR8ulMSkP6XIWDDkm-TVo2GTu7kLkdqKQt9zJ832B8MNUIL4aWZ2n7Wc8eOkZca1cx4ChvsFSEt-o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote BAR ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100296
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote BAR ᶠʰᵈ" tvg-logo="http://kongking.shop:80/images/pvCeJaf3ncx1lov72LMSdq1N9V4nkRSR8ulMSkP6XIWDDkm-TVo2GTu7kLkdqKQt9zJ832B8MNUIL4aWZ2n7Wc8eOkZca1cx4ChvsFSEt-o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote BAR ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100297
+#EXTINF:-1 tvg-id="" tvg-name="LACosmote BAR FHD [50FPS]" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",LACosmote BAR FHD [50FPS]
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100298
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote BAR 2 ʰᵈ" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WUQQe4cMSvDXfMhN-W_rSiA.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote BAR 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100299
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote BAR 3 ᶠʰᵈ" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WbCXBBze5YlpEGSXM1w263g.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote BAR 3 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100300
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote 1 BAR ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/M1SD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote 1 BAR ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100301
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote 1 BAR ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/M1SD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote 1 BAR ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100302
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote 2 BAR ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/M2SD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote 2 BAR ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100303
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote 2 BAR ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/M2SD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote 2 BAR ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100304
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL PLAY ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/GOL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: GOL PLAY ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100305
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL PLAY ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/GOL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: GOL PLAY ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100306
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL PLAY ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/GOL.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: GOL PLAY ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100307
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE ᶠʰᵈ" tvg-logo="https://empresas.adamo.es/hubfs/ASJ/TV/Hubdb/deportesMotor/dbikeTVChannel.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DBIKE ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100308
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTES ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/320px-Tve_teledeporte.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TELEDEPORTES ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100309
+#EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV ᶠʰᵈ" tvg-logo="https://iteleflix.com/archivos/Logo-Betis-TV.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BETIS TV ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100310
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTES ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/320px-Tve_teledeporte.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TELEDEPORTES ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100311
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote PLUS ˢᵈ" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote PLUS ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100312
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote PLUS ʰᵈ" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote PLUS ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100313
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote PLUS 2 ˢᵈ" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote PLUS 2 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100314
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote PLUS 2 ʰᵈ" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote PLUS 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100315
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote LACosmote ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CosmoteLI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote LACosmote ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100316
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote LACosmote ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CosmoteLI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote LACosmote ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100317
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote LACosmote ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CosmoteLI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote LACosmote ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100318
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote LACosmote ᶠʰᵈ   (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CosmoteLI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote LACosmote ᶠʰᵈ   (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100319
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote LACosmote ᶠʰᵈ  ( ʜᴇᴠᴄ )" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CosmoteLI.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote LACosmote ᶠʰᵈ  ( ʜᴇᴠᴄ )
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100320
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote LACosmote 2 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CosmoteL2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote LACosmote 2 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100321
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote LACosmote 2 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CosmoteL2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote LACosmote 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100322
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote LACosmote 2 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CosmoteL2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote LACosmote 2 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100323
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote Cosmote  ˢᵈ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-Cosmote-1-es-2510.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote Cosmote  ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100324
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote Cosmote ʰᵈ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-Cosmote-1-es-2510.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote Cosmote ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100325
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote Cosmote ᶠʰᵈ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-Cosmote-1-es-2510.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote Cosmote ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100326
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote Cosmote 2 ˢᵈ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-Cosmote-2-es-2511.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote Cosmote 2 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100327
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote Cosmote 2 ʰᵈ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-Cosmote-2-es-2511.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote Cosmote 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100328
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote Cosmote 2 ᶠʰᵈ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-Cosmote-2-es-2511.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote Cosmote 2 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100329
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote Cosmote 3 ˢᵈ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-Cosmote-3-es-2524.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote Cosmote 3 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100330
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote Cosmote 3 ᶠʰᵈ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-Cosmote-3-es-2524.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote Cosmote 3 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100331
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote Cosmote 4 ʰᵈ" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote Cosmote 4 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100332
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote Cosmote 4 ᶠʰᵈ" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote Cosmote 4 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100333
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote 3 FHD [50FPS] (SOLO EVENTOS)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/Cosmote3.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote 3 FHD [50FPS] (SOLO EVENTOS)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100334
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote EVENTOS 4 ᶠʰᵈ" tvg-logo="https://images2.imgbox.com/b2/4e/zZqjqSgh_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote EVENTOS 4 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100335
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote 4 FHD [50 FPS] (SOLO EVENTOS)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/Cosmote4.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote 4 FHD [50 FPS] (SOLO EVENTOS)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100336
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100337
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100338
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100339
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES ᶠʰᵈ  (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES ᶠʰᵈ  (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100340
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES ᶠʰᵈ  (ORANGE)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES ᶠʰᵈ  (ORANGE)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100341
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES UHD" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAUHD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES UHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100342
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES 2 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES 2 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100343
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES 2 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES 2 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100344
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES 2 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100345
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+Cosmote DE CAMPEONES 2 ʰᵈ (ORANGE)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+Cosmote DE CAMPEONES 2 ʰᵈ (ORANGE)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100346
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES 2 BAR ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES 2 BAR ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100347
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote+ Cosmote DE CAMPEONES 2 ᶠʰᵈ (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote+ Cosmote DE CAMPEONES 2 ᶠʰᵈ (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100348
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote DE CAMPEONES 2 UHD" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHUHD1.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote DE CAMPEONES 2 UHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100349
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES 3 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES 3 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100350
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES 3 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES 3 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100351
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ Cosmote DE CAMPEONES 3 ᶠʰᵈ (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ Cosmote DE CAMPEONES 3 ᶠʰᵈ (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100352
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote HYPERMOTION ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote HYPERMOTION ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100353
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote  HYPERMOTION ʰᵈ*" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote  HYPERMOTION ʰᵈ*
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100354
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote TV HYPERMOTION ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote TV HYPERMOTION ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100355
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote  HYPERMOTION ᶠʰᵈ  (SAT.)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote  HYPERMOTION ᶠʰᵈ  (SAT.)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100356
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote  HYPERMOTION M2 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote  HYPERMOTION M2 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100357
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote HYPERMOTION M2 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote HYPERMOTION M2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100358
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote  HYPERMOTION M2 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote  HYPERMOTION M2 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100359
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote HYPERMOTION  M2 ᶠʰᵈ  (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote HYPERMOTION  M2 ᶠʰᵈ  (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100360
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote HYPERMOTION M2 ᶠʰᵈ  (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote HYPERMOTION M2 ᶠʰᵈ  (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100361
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote  HYPERMOTION M3 ᶠʰᵈ (SAT.)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote  HYPERMOTION M3 ᶠʰᵈ (SAT.)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100362
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote HYPERMOTION M3  (ORANGE)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote HYPERMOTION M3  (ORANGE)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100363
+#EXTINF:-1 tvg-id="" tvg-name="ES: LACosmote  HYPERMOTION M3  ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: LACosmote  HYPERMOTION M3  ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100364
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100365
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100366
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100367
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES ᶠʰᵈ  (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES ᶠʰᵈ  (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100368
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES 2 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100369
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote+ DEPORTES 2 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote+ DEPORTES 2 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100370
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES 2 ᶠʰᵈ (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES 2 ᶠʰᵈ (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100371
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES 3 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/USOP2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES 3 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100372
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES 3 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/USOP2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES 3 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100373
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES 4 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/USOP3.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES 4 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100374
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES 4 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/USOP11.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES 4 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100375
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ DEPORTES 5 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/USOP11.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ DEPORTES 5 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100376
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote+ DEPORTES 6  ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote+ DEPORTES 6  ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100377
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote+ Deportes 7  ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MULTI6.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote+ Deportes 7  ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100378
+#EXTINF:-1 tvg-id="" tvg-name="ES: #ELLAS ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: #ELLAS ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100379
+#EXTINF:-1 tvg-id="" tvg-name="ES: #ELLAS ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: #ELLAS ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100380
+#EXTINF:-1 tvg-id="" tvg-name="ES: #ELLAS ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: #ELLAS ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100381
+#EXTINF:-1 tvg-id="" tvg-name="ES: #ELLAS ᶠʰᵈ (SAT.)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: #ELLAS ᶠʰᵈ (SAT.)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100382
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ GOLF ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ GOLF ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100383
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ GOLF ʰᵈ" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ GOLF ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100384
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ GOLF ᶠʰᵈ" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ GOLF ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100385
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+  GOLF ᶠʰᵈ  (SAT.)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+  GOLF ᶠʰᵈ  (SAT.)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100386
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ GOLF 2 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ GOLF 2 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100387
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ GOLF 2 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ GOLF 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100388
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ GOLF 2 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ GOLF 2 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100389
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote SPORTS tv 12" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote SPORTS tv 12
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100390
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote PREMIER 1 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote PREMIER 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100391
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote PREMIER 2 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote PREMIER 2 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100392
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote PREMIER 3 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote PREMIER 3 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100393
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote PREMIER 4 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote PREMIER 4 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100394
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote PREMIER 5 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote PREMIER 5 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100395
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote PREMIER 6 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote PREMIER 6 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100396
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote PREMIER 7 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote PREMIER 7 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100397
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote PREMIER 8 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote PREMIER 8 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100398
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote PREMIER 9 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote PREMIER 9 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100399
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote PREMIER 10 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Cosmote PREMIER 10 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100400
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ESP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: EUROSPORT 1 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100401
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ESP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: EUROSPORT 1 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100402
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ESP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: EUROSPORT 1 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100403
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 ᶠʰᵈ  (SAT.)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ESP.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: EUROSPORT 1 ᶠʰᵈ  (SAT.)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100404
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ESP2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: EUROSPORT 2 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100405
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ESP2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: EUROSPORT 2 ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100406
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ESP2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: EUROSPORT 2 ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100407
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 ᶠʰᵈ  (SAT)" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/ESP2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: EUROSPORT 2 ᶠʰᵈ  (SAT)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100408
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV FHD 50 FPS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",NBA TV FHD 50 FPS
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100409
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD 50 FPS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",NBA TV HD 50 FPS
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100410
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV  ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/REALM.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: REAL MADRID TV  ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100411
+#EXTINF:-1 tvg-id="" tvg-name="ES: SEVILLA FC ˢᵈ" tvg-logo="http://de.live-tv-channels.net/pt-data/uploads/logo/sevilla_fc_tv_es.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SEVILLA FC ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100412
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESCAPE TV" tvg-logo="https://image.roku.com/developer_channels/prod/e69d61b3e3c60938dfb0e01c29076a536812c6ef99b8ed1faab2bc25e7aa3536.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ESCAPE TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100413
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESCAPE TV ᶠʰᵈ" tvg-logo="https://image.roku.com/developer_channels/prod/e69d61b3e3c60938dfb0e01c29076a536812c6ef99b8ed1faab2bc25e7aa3536.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ESCAPE TV ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100414
+#EXTINF:-1 tvg-id="" tvg-name="ES: SURF CHANNEL ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: SURF CHANNEL ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100415
+#EXTINF:-1 tvg-id="" tvg-name="ES: UBEAT (Orange)" tvg-logo="https://satcesc.com/wp-content/uploads/2018/11/U-Beat.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: UBEAT (Orange)
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100416
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONETORO" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ONETORO
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100417
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONETORO ʰᵈ" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ONETORO ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100418
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONETORO ᶠʰᵈ" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: ONETORO ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100419
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE ᶠʰᵈ" tvg-logo="https://api.myclub.tv//images/5727.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TOROLE ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100420
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE ʰᵈ" tvg-logo="https://api.myclub.tv//images/5727.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TOROLE ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100421
+#EXTINF:-1 tvg-id="" tvg-name="ES: HORSE TV ʰᵈ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQ7BQ7UUskMBrLs-TPEEqPanW5D8IMdSbqfhdtcSGZWWAf7gJwMrOV_Po5efO0nlA500&usqp=CAU" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: HORSE TV ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100422
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAUTICAL CHANNEL ʰᵈ" tvg-logo="http://xplatinmedia.com:8080/images/f7492cf44b6008e074589e4e350e5ad9.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NAUTICAL CHANNEL ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100423
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE TV ˢᵈ" tvg-logo="https://empresas.adamo.es/hubfs/ASJ/TV/Hubdb/deportesMotor/dbikeTVChannel.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DBIKE TV ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100424
+#EXTINF:-1 tvg-id="" tvg-name="ES: EDGE SPORTS" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: EDGE SPORTS
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100425
+#EXTINF:-1 tvg-id="" tvg-name="ES: USGATV" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: USGATV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100426
+#EXTINF:-1 tvg-id="" tvg-name="ES: PAC-12 INSIDER" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: PAC-12 INSIDER
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100427
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTOR SPORTS" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: MOTOR SPORTS
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100428
+#EXTINF:-1 tvg-id="" tvg-name="ES: TENIS CHANNEL" tvg-logo="https://media.licdn.com/dms/image/v2/C4E0BAQGjvnBSYRriIw/company-logo_200_200/company-logo_200_200/0/1646327585440/the_tennis_channel_logo?e=2147483647&v=beta&t=_T_xKpgh-nmQ55dC5pxE4Ng2r2YYmDG25ulDKWSuztQ" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: TENIS CHANNEL
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100429
+#EXTINF:-1 tvg-id="" tvg-name="ES: RALLY TV" tvg-logo="https://play-lh.googleusercontent.com/rzg85mQO3C_mpA9ZfAWRbq8geyqn-Re-5CmISPtEhXBi5wsGJfVNuiD8v7shEJtWRKwL" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: RALLY TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100430
+#EXTINF:-1 tvg-id="" tvg-name="ES: REKTV GAMER ᶠʰᵈ" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=464dcb&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Frektvgamer.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: REKTV GAMER ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100431
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIRECTV SPORT MOTOR ʰᵈ" tvg-logo="http://kongking.shop:80/images/4b324beb3af0c9fe86ad507ce7dd32e6.jpg" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DIRECTV SPORT MOTOR ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100432
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADV ᶠʰᵈ" tvg-logo="https://dotdesignstudio.com.au/wp-content/uploads/2022/08/Moto-ADV-on-Black-scaled-e1662096218548.jpg" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: MOTO ADV ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100433
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL ˢᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DCH.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DISNEY CHANNEL ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100434
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DCH.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DISNEY CHANNEL ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100435
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL ᶠʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/DCH.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DISNEY CHANNEL ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100436
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JR ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DISNEY JR ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100437
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY Jr. ᶠʰᵈ" tvg-logo="http://kongking.shop:2086/resize.php?max=42&url=https://static.epg.best/ca/DisneyJunior.ca.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: DISNEY Jr. ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100438
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN TV ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CLAN TV ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100439
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CLAN ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100440
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CLAN ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100441
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICK Jr. sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NICK Jr. sd
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100442
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICK Jr. ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NICK Jr. ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100443
+#EXTINF:-1 tvg-id="" tvg-name="ES: NIck JUNIOR ᶠʰᵈ" tvg-logo="http://bm-7-cncxgmeeekdvefg5.z01.azurefd.net:80/images/91d4569492f38f06f756c6088cdb5250.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NIck JUNIOR ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100444
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NICKELODEON ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100445
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NICKELODEON ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100446
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING ˢᵈ" tvg-logo="http://xtitan.xyz:2082/images/ce236b9cfdb54ecaaeb245741bd8d393.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BOING ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100447
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BOING ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100448
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING ᶠʰᵈ" tvg-logo="http://xtitan.xyz:2082/images/ce236b9cfdb54ecaaeb245741bd8d393.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BOING ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100449
+#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV  ˢᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BABY TV  ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100450
+#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: BABY TV ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100451
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLASSICA ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/CLASSD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CLASSICA ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100452
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ MEZZO LIVE ʰᵈ" tvg-logo="https://www.Cosmoteplus.es/recorte/m-NEO/canal/MEZOHD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ MEZZO LIVE ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100453
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote+ MEZZO LIVE FULL ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Cosmote+ MEZZO LIVE FULL ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100454
+#EXTINF:-1 tvg-id="" tvg-name="ES: All FLAMENCO ᶠʰᵈ" tvg-logo="https://allflamenco.net/wp-content/uploads/2023/07/logo-negro-rojo.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: All FLAMENCO ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100455
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: MTV HITS
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100456
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV 00 ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: MTV 00 ˢᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100457
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV SPAIN ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: MTV SPAIN ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100458
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOW ROCK ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NOW ROCK ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100459
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOW 80s ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: NOW 80s ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100460
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: MTV ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100461
+#EXTINF:-1 tvg-id="" tvg-name="ES: UBEAT ᶠʰᵈ" tvg-logo="https://satcesc.com/wp-content/uploads/2018/11/U-Beat.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: UBEAT ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100462
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL QUICKIE ( SALVAME ) ᶠʰᵈ" tvg-logo="https://static.eldiario.es/clip/9966b909-9495-444a-82e7-0acf029180d0_16-9-discover-aspect-ratio_default_0.jpg" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: CANAL QUICKIE ( SALVAME ) ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100463
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME Cine Y Series ʰᵈ" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_CINE_Y_SERIES_WHITE_176x122.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: RUNTIME Cine Y Series ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100464
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUN TIME CINE ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: RUN TIME CINE ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100465
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME Series ʰᵈ" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_SERIES_WHITE_176x122.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: RUNTIME Series ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100466
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUN TIME TRASH ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: RUN TIME TRASH ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100467
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUN TIME THRILLER ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: RUN TIME THRILLER ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100468
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUN TIME CLASICCOS ʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: RUN TIME CLASICCOS ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100469
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Parlamento" tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: Canal Parlamento
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100470
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL TORO T.V ᶠʰᵈ" tvg-logo="" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: EL TORO T.V ᶠʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100471
+#EXTINF:-1 tvg-id="" tvg-name="ES: MY PADEL TV ʰᵈ" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/MyPadelTV_1000x1000_Circle.png?$296_164_PNG" group-title="⭐⭐⭐SPANIA⭐⭐⭐",ES: MY PADEL TV ʰᵈ
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100472
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 TESTS" tvg-logo="https://iili.io/HMINpPS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Formula 1 TESTS
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100473
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 Clasificacion" tvg-logo="https://iili.io/HMINpPS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Formula 1 Clasificacion
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100474
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 Carrera" tvg-logo="https://iili.io/HMINpPS.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Formula 1 Carrera
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100475
+#EXTINF:-1 tvg-id="" tvg-name="Moto GP Clasificacion" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Moto GP Clasificacion
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100476
+#EXTINF:-1 tvg-id="" tvg-name="Moto GP Carrera" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Moto GP Carrera
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100477
+#EXTINF:-1 tvg-id="" tvg-name="Moto GP Tests." tvg-logo="https://iili.io/HOGh9Ns.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Moto GP Tests.
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100478
+#EXTINF:-1 tvg-id="" tvg-name="Moto2 y 3 Tests" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Moto2 y 3 Tests
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100479
+#EXTINF:-1 tvg-id="" tvg-name="Moto2 y 3 Clasificación" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Moto2 y 3 Clasificación
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100480
+#EXTINF:-1 tvg-id="" tvg-name="Moto2 y 3 Carrera" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Moto2 y 3 Carrera
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100481
+#EXTINF:-1 tvg-id="" tvg-name="Superbikes Tests" tvg-logo="https://iili.io/HviorQt.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Superbikes Tests
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100482
+#EXTINF:-1 tvg-id="" tvg-name="Superbikes Clasificación" tvg-logo="https://iili.io/HviorQt.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Superbikes Clasificación
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100483
+#EXTINF:-1 tvg-id="" tvg-name="Superbikes Carrera" tvg-logo="https://iili.io/HviorQt.png" group-title="⭐⭐⭐SPANIA⭐⭐⭐",Superbikes Carrera
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100484
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/LA1HD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: LA 1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100485
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/LA2.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: LA 2 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100486
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/ANTENA3HD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: ANTENA 3 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100487
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/CUATROHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: CUATRO HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100488
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/LASEXTAHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: LA SEXTA HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100489
+#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREMADURA TV" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/extreMadura.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: EXTREMADURA TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100490
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/FOXHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: FOX FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100491
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/FOXHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: FOX HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100492
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/FOXLIFEHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: FOX LIFE HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100493
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/SYFYHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: SYFY HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100494
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/TCMHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: TCM FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100495
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/TELECINCOHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: TELECINCO HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100496
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/AXNHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: AXN HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100497
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/axnwhite.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: AXN WHITE HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100498
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/BOING.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: BOING
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100499
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/CAZAYPESCAHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: CAZA Y PESCA HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100500
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/COMMEDYCENTRAL.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: COMEDY CENTRAL HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100501
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/COSMOHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: COSMO FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100502
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN+ INVESTIGACION" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/CRIMENYINVES.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: CRIMEN+ INVESTIGACION
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100503
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/discovery_channel.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: DISCOVERY CHANNEL HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100504
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JR" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/DISNEYJR.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: DISNEY JR
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100505
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/NEOX.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: NEOX HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100506
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICK JR" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/NICKELODEONHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: NICK JR
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100507
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/NICKELODEONHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: NICKELODEON HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100508
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote TOROS FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/TOROSHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: Cosmote TOROS FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100509
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-barca-tv-1456.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: BARCA TV HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100510
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/EUROSPORT1HD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: EUROSPORT 1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100511
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/HISTORIA.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: HISTORIA HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100512
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote DCINE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/M.DCINEHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: Cosmote DCINE HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100513
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote FORMULA 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/FORMULA1HD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: Cosmote FORMULA 1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100514
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote GOLF HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-Cosmote-golf-368.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: Cosmote GOLF HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100515
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote SERIES HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/M.SERIESHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: Cosmote SERIES HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100516
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/NOVA.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: NOVA HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100517
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ODISEA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/CANALODISEA.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: CANAL ODISEA HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100518
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/realMadridTV.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: REAL MADRID FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100519
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/VIAJARHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: VIAJAR HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100520
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/CALLE13HD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: CALLE 13 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100521
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 24 HORAS" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/CANAL24HORAS.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: CANAL 24 HORAS
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100522
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/AMCHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: AMC HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100523
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/AXNHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: AXN FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100524
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/ARAGON.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: ARAGON TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100525
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/TNTHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: TNT HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100526
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/paramount-plus.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: PARAMOUNT CHANNEL
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100527
+#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/BABYTV.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: BABY TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100528
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS" tvg-logo="http://sltv-logo.cms-s.com/logo/USA/FOXNEWSHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: FOX NEWS
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100529
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/SundanceTV.svg.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: SUNDANCE HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100530
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote ACCION FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/m-accion.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: Cosmote ACCION FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100531
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote COMEDIA HD" tvg-logo="https://www.Cosmoteplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: Cosmote COMEDIA HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100532
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmote ESTRENOS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/M.ESTRENOSHD.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: Cosmote ESTRENOS HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100533
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 4" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/alquiler4.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: ALQUILER HD 4
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100534
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 3" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/alquiler3.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: ALQUILER HD 3
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100535
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 2" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/alquiler2.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: ALQUILER HD 2
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100536
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 1" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/aquiler.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: ALQUILER HD 1
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100537
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLAZE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/BLAZE.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: BLAZE HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100538
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/canal-cocina.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: CANAL COCINA HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100539
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL PLAY FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/GOL.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: GOL PLAY FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100540
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL PANDA" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/CANALPANDA.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: CANAL PANDA
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100541
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/EUROSPORT1.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: EUROSPORT 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100542
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR ANDALUCIA" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/canalSur.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: CANAL SUR ANDALUCIA
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100543
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/SPAIN/TELEDEPORTE.png" group-title="⭐⭐⭐SPANIA(Rezerva)⭐⭐⭐",ES: TELEDEPORTE HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/100544
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: EUROSPORT 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77009
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: EUROSPORT 1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77010
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: EUROSPORT 2 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77011
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: EUROSPORT 2 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77012
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT1+ FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SPORT1+ FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77013
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT1+ HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SPORT1+ HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77014
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT DIGITAL HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SPORT DIGITAL HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77015
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOTORVISION TV" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MOTORVISION TV
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77016
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT UHD  EVENT" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT UHD  EVENT
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77017
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT NEWS FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77018
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT NEWS HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77019
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT GOLF FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77020
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT GOLF HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77021
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT F1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77022
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT F1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77023
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT TENNIS FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77024
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT TENNIS HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77025
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT MIX FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77026
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT MIX HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77027
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT PREMIER LEAGUE FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77028
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT PREMIER LEAGUE HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77029
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT TOP EVENT FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77030
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT TOP EVENT HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77031
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SPORT 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77032
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77033
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77034
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 2 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77035
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 2 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77036
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 3 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77037
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 3 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77038
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 4 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77039
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 4 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77040
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 5 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77041
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 5 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77042
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 6 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77043
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 6 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77044
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 7 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77045
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 7 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77046
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 8 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77047
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 8 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77048
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 9 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 9 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77049
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT  9 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT  9 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77050
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 11 (event only) FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 11 (event only) FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77051
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77052
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77053
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77054
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77055
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 2 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77056
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 2 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77057
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 3 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77058
+#EXTINF:-1 tvg-id="" tvg-name="DE: BUNDESLIGA 3 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: BUNDESLIGA 3 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77059
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 4 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77060
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 4 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77061
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 5 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77062
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 5 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77063
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 6 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77064
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 6 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77065
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 7 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77066
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 7 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77067
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 8 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77068
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 8 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77069
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 9 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77070
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 9 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77071
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 10 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT BUNDESLIGA 10 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77072
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 10 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77073
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: SKY SPORT 10 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77074
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC BAYERN TV HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/FCBTVLive-Logo-3C-1.png?time=1522064367552&fm=webp&w=220" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: FC BAYERN TV HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77075
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC BAYERN TV FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: FC BAYERN TV FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77076
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77077
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN 1 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77078
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN 2 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77079
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN 2 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77080
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 2 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN EVENT 2 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77081
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 3 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN EVENT 3 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77082
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 4 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN EVENT 4 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77083
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 5 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN EVENT 5 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77084
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 6 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN EVENT 6 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77085
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 7 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN EVENT 7 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77086
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 8 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN EVENT 8 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77087
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 9 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN EVENT 9 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77088
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 10 HD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: DAZN EVENT 10 HD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77089
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 1 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MAGENTA SPORT 1 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77090
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 2 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MAGENTA SPORT 2 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77091
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 3 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MAGENTA SPORT 3 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77092
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 4 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MAGENTA SPORT 4 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77093
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 5 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MAGENTA SPORT 5 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77094
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 6 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MAGENTA SPORT 6 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77095
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 7 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MAGENTA SPORT 7 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77096
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 8 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/Magenta_Sport_Logo_2022.svg.png" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MAGENTA SPORT 8 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77097
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 9 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MAGENTA SPORT 9 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77098
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 10 FHD" tvg-logo="" group-title="⭐⭐⭐GERMANIA⭐⭐⭐",DE: MAGENTA SPORT 10 FHD
+http://update1.miicrosoft.es:80/Caranda_Gelu/J69wGW8hHvufguRYAPbS2ddZZ3VUFp/77099
